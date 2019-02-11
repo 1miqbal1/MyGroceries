@@ -4,9 +4,8 @@ language: cpp
 OS: linux
 
 script:
-	- make clean
-	- make
-=======
+  - make clean
+  - make
 os: linux
 script:
     - make clean
